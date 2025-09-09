@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UTN\\TUP PROG II\\repo\\ProgII-2022\\Semana 10\\CarpinteriaSLN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21B56C8E-615E-40A1-B11E-808FA71245BA}|DataAPI\\DataAPI.csproj|d:\\utn\\tup prog ii\\repo\\progii-2022\\semana 10\\carpinteriasln\\dataapi\\datos\\presupuestorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B56C8E-615E-40A1-B11E-808FA71245BA}|DataAPI\\DataAPI.csproj|solutionrelative:dataapi\\datos\\presupuestorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B56C8E-615E-40A1-B11E-808FA71245BA}|DataAPI\\DataAPI.csproj|d:\\utn\\tup prog ii\\repo\\progii-2022\\semana 10\\carpinteriasln\\dataapi\\datos\\helperdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B56C8E-615E-40A1-B11E-808FA71245BA}|DataAPI\\DataAPI.csproj|solutionrelative:dataapi\\datos\\helperdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B56C8E-615E-40A1-B11E-808FA71245BA}|DataAPI\\DataAPI.csproj|d:\\utn\\tup prog ii\\repo\\progii-2022\\semana 10\\carpinteriasln\\dataapi\\fachada\\idataapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B56C8E-615E-40A1-B11E-808FA71245BA}|DataAPI\\DataAPI.csproj|solutionrelative:dataapi\\fachada\\idataapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B56C8E-615E-40A1-B11E-808FA71245BA}|DataAPI\\DataAPI.csproj|d:\\utn\\tup prog ii\\repo\\progii-2022\\semana 10\\carpinteriasln\\dataapi\\fachada\\dataapiimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B56C8E-615E-40A1-B11E-808FA71245BA}|DataAPI\\DataAPI.csproj|solutionrelative:dataapi\\fachada\\dataapiimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B56C8E-615E-40A1-B11E-808FA71245BA}|DataAPI\\DataAPI.csproj|d:\\utn\\tup prog ii\\repo\\progii-2022\\semana 10\\carpinteriasln\\dataapi\\datos\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B56C8E-615E-40A1-B11E-808FA71245BA}|DataAPI\\DataAPI.csproj|solutionrelative:dataapi\\datos\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A58675-57B9-4043-B434-0B266396EEE7}|ApiCarpinteria\\ApiCarpinteria.csproj|d:\\utn\\tup prog ii\\repo\\progii-2022\\semana 10\\carpinteriasln\\apicarpinteria\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{24A58675-57B9-4043-B434-0B266396EEE7}|ApiCarpinteria\\ApiCarpinteria.csproj|solutionrelative:apicarpinteria\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A58675-57B9-4043-B434-0B266396EEE7}|ApiCarpinteria\\ApiCarpinteria.csproj|d:\\utn\\tup prog ii\\repo\\progii-2022\\semana 10\\carpinteriasln\\apicarpinteria\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{24A58675-57B9-4043-B434-0B266396EEE7}|ApiCarpinteria\\ApiCarpinteria.csproj|solutionrelative:apicarpinteria\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A58675-57B9-4043-B434-0B266396EEE7}|ApiCarpinteria\\ApiCarpinteria.csproj|d:\\utn\\tup prog ii\\repo\\progii-2022\\semana 10\\carpinteriasln\\apicarpinteria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{24A58675-57B9-4043-B434-0B266396EEE7}|ApiCarpinteria\\ApiCarpinteria.csproj|solutionrelative:apicarpinteria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A58675-57B9-4043-B434-0B266396EEE7}|ApiCarpinteria\\ApiCarpinteria.csproj|d:\\utn\\tup prog ii\\repo\\progii-2022\\semana 10\\carpinteriasln\\apicarpinteria\\controllers\\presupuestocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24A58675-57B9-4043-B434-0B266396EEE7}|ApiCarpinteria\\ApiCarpinteria.csproj|solutionrelative:apicarpinteria\\controllers\\presupuestocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B56C8E-615E-40A1-B11E-808FA71245BA}|DataAPI\\DataAPI.csproj|d:\\utn\\tup prog ii\\repo\\progii-2022\\semana 10\\carpinteriasln\\dataapi\\dataapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{21B56C8E-615E-40A1-B11E-808FA71245BA}|DataAPI\\DataAPI.csproj|solutionrelative:dataapi\\dataapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B56C8E-615E-40A1-B11E-808FA71245BA}|DataAPI\\DataAPI.csproj|d:\\utn\\tup prog ii\\repo\\progii-2022\\semana 10\\carpinteriasln\\dataapi\\dominio\\presupuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B56C8E-615E-40A1-B11E-808FA71245BA}|DataAPI\\DataAPI.csproj|solutionrelative:dataapi\\dominio\\presupuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B56C8E-615E-40A1-B11E-808FA71245BA}|DataAPI\\DataAPI.csproj|d:\\utn\\tup prog ii\\repo\\progii-2022\\semana 10\\carpinteriasln\\dataapi\\dominio\\detallepresupuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B56C8E-615E-40A1-B11E-808FA71245BA}|DataAPI\\DataAPI.csproj|solutionrelative:dataapi\\dominio\\detallepresupuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B56C8E-615E-40A1-B11E-808FA71245BA}|DataAPI\\DataAPI.csproj|d:\\utn\\tup prog ii\\repo\\progii-2022\\semana 10\\carpinteriasln\\dataapi\\dominio\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B56C8E-615E-40A1-B11E-808FA71245BA}|DataAPI\\DataAPI.csproj|solutionrelative:dataapi\\dominio\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A58675-57B9-4043-B434-0B266396EEE7}|ApiCarpinteria\\ApiCarpinteria.csproj|d:\\utn\\tup prog ii\\repo\\progii-2022\\semana 10\\carpinteriasln\\apicarpinteria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24A58675-57B9-4043-B434-0B266396EEE7}|ApiCarpinteria\\ApiCarpinteria.csproj|solutionrelative:apicarpinteria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\UTN\\TUP PROG II\\repo\\ProgII-2022\\Semana 10\\CarpinteriaSLN\\ApiCarpinteria\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApiCarpinteria\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\UTN\\TUP PROG II\\repo\\ProgII-2022\\Semana 10\\CarpinteriaSLN\\ApiCarpinteria\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApiCarpinteria\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-06T21:10:36.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PresupuestoRepository.cs",
+              "DocumentMoniker": "D:\\UTN\\TUP PROG II\\repo\\ProgII-2022\\Semana 10\\CarpinteriaSLN\\DataAPI\\datos\\PresupuestoRepository.cs",
+              "RelativeDocumentMoniker": "DataAPI\\datos\\PresupuestoRepository.cs",
+              "ToolTip": "D:\\UTN\\TUP PROG II\\repo\\ProgII-2022\\Semana 10\\CarpinteriaSLN\\DataAPI\\datos\\PresupuestoRepository.cs",
+              "RelativeToolTip": "DataAPI\\datos\\PresupuestoRepository.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T13:04:34.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\UTN\\TUP PROG II\\repo\\ProgII-2022\\Semana 10\\CarpinteriaSLN\\DataAPI\\datos\\IRepository.cs",
+              "RelativeDocumentMoniker": "DataAPI\\datos\\IRepository.cs",
+              "ToolTip": "D:\\UTN\\TUP PROG II\\repo\\ProgII-2022\\Semana 10\\CarpinteriaSLN\\DataAPI\\datos\\IRepository.cs",
+              "RelativeToolTip": "DataAPI\\datos\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T20:47:52.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataApiImp.cs",
+              "DocumentMoniker": "D:\\UTN\\TUP PROG II\\repo\\ProgII-2022\\Semana 10\\CarpinteriaSLN\\DataAPI\\fachada\\DataApiImp.cs",
+              "RelativeDocumentMoniker": "DataAPI\\fachada\\DataApiImp.cs",
+              "ToolTip": "D:\\UTN\\TUP PROG II\\repo\\ProgII-2022\\Semana 10\\CarpinteriaSLN\\DataAPI\\fachada\\DataApiImp.cs",
+              "RelativeToolTip": "DataAPI\\fachada\\DataApiImp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T13:04:34.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDataApi.cs",
+              "DocumentMoniker": "D:\\UTN\\TUP PROG II\\repo\\ProgII-2022\\Semana 10\\CarpinteriaSLN\\DataAPI\\fachada\\IDataApi.cs",
+              "RelativeDocumentMoniker": "DataAPI\\fachada\\IDataApi.cs",
+              "ToolTip": "D:\\UTN\\TUP PROG II\\repo\\ProgII-2022\\Semana 10\\CarpinteriaSLN\\DataAPI\\fachada\\IDataApi.cs",
+              "RelativeToolTip": "DataAPI\\fachada\\IDataApi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T13:04:34.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelperDB.cs",
+              "DocumentMoniker": "D:\\UTN\\TUP PROG II\\repo\\ProgII-2022\\Semana 10\\CarpinteriaSLN\\DataAPI\\datos\\HelperDB.cs",
+              "RelativeDocumentMoniker": "DataAPI\\datos\\HelperDB.cs",
+              "ToolTip": "D:\\UTN\\TUP PROG II\\repo\\ProgII-2022\\Semana 10\\CarpinteriaSLN\\DataAPI\\datos\\HelperDB.cs",
+              "RelativeToolTip": "DataAPI\\datos\\HelperDB.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T13:04:34.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\UTN\\TUP PROG II\\repo\\ProgII-2022\\Semana 10\\CarpinteriaSLN\\ApiCarpinteria\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ApiCarpinteria\\appsettings.Development.json",
+              "ToolTip": "D:\\UTN\\TUP PROG II\\repo\\ProgII-2022\\Semana 10\\CarpinteriaSLN\\ApiCarpinteria\\appsettings.Development.json",
+              "RelativeToolTip": "ApiCarpinteria\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-06T21:10:27.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PresupuestoController.cs",
+              "DocumentMoniker": "D:\\UTN\\TUP PROG II\\repo\\ProgII-2022\\Semana 10\\CarpinteriaSLN\\ApiCarpinteria\\Controllers\\PresupuestoController.cs",
+              "RelativeDocumentMoniker": "ApiCarpinteria\\Controllers\\PresupuestoController.cs",
+              "ToolTip": "D:\\UTN\\TUP PROG II\\repo\\ProgII-2022\\Semana 10\\CarpinteriaSLN\\ApiCarpinteria\\Controllers\\PresupuestoController.cs",
+              "RelativeToolTip": "ApiCarpinteria\\Controllers\\PresupuestoController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T13:04:34.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataAPI.csproj",
+              "DocumentMoniker": "D:\\UTN\\TUP PROG II\\repo\\ProgII-2022\\Semana 10\\CarpinteriaSLN\\DataAPI\\DataAPI.csproj",
+              "RelativeDocumentMoniker": "DataAPI\\DataAPI.csproj",
+              "ToolTip": "D:\\UTN\\TUP PROG II\\repo\\ProgII-2022\\Semana 10\\CarpinteriaSLN\\DataAPI\\DataAPI.csproj",
+              "RelativeToolTip": "DataAPI\\DataAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-02T13:04:34.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Presupuesto.cs",
+              "DocumentMoniker": "D:\\UTN\\TUP PROG II\\repo\\ProgII-2022\\Semana 10\\CarpinteriaSLN\\DataAPI\\dominio\\Presupuesto.cs",
+              "RelativeDocumentMoniker": "DataAPI\\dominio\\Presupuesto.cs",
+              "ToolTip": "D:\\UTN\\TUP PROG II\\repo\\ProgII-2022\\Semana 10\\CarpinteriaSLN\\DataAPI\\dominio\\Presupuesto.cs",
+              "RelativeToolTip": "DataAPI\\dominio\\Presupuesto.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T13:04:34.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\UTN\\TUP PROG II\\repo\\ProgII-2022\\Semana 10\\CarpinteriaSLN\\ApiCarpinteria\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiCarpinteria\\appsettings.json",
+              "ToolTip": "D:\\UTN\\TUP PROG II\\repo\\ProgII-2022\\Semana 10\\CarpinteriaSLN\\ApiCarpinteria\\appsettings.json",
+              "RelativeToolTip": "ApiCarpinteria\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-02T13:04:34.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DetallePresupuesto.cs",
+              "DocumentMoniker": "D:\\UTN\\TUP PROG II\\repo\\ProgII-2022\\Semana 10\\CarpinteriaSLN\\DataAPI\\dominio\\DetallePresupuesto.cs",
+              "RelativeDocumentMoniker": "DataAPI\\dominio\\DetallePresupuesto.cs",
+              "ToolTip": "D:\\UTN\\TUP PROG II\\repo\\ProgII-2022\\Semana 10\\CarpinteriaSLN\\DataAPI\\dominio\\DetallePresupuesto.cs",
+              "RelativeToolTip": "DataAPI\\dominio\\DetallePresupuesto.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAqwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T13:04:34.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "D:\\UTN\\TUP PROG II\\repo\\ProgII-2022\\Semana 10\\CarpinteriaSLN\\DataAPI\\dominio\\Producto.cs",
+              "RelativeDocumentMoniker": "DataAPI\\dominio\\Producto.cs",
+              "ToolTip": "D:\\UTN\\TUP PROG II\\repo\\ProgII-2022\\Semana 10\\CarpinteriaSLN\\DataAPI\\dominio\\Producto.cs",
+              "RelativeToolTip": "DataAPI\\dominio\\Producto.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAxwA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T13:04:34.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UTN\\TUP PROG II\\repo\\ProgII-2022\\Semana 10\\CarpinteriaSLN\\ApiCarpinteria\\Program.cs",
+              "RelativeDocumentMoniker": "ApiCarpinteria\\Program.cs",
+              "ToolTip": "D:\\UTN\\TUP PROG II\\repo\\ProgII-2022\\Semana 10\\CarpinteriaSLN\\ApiCarpinteria\\Program.cs",
+              "RelativeToolTip": "ApiCarpinteria\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA0wBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T13:04:34.493Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

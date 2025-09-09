@@ -1,0 +1,13 @@
+CREATE DATABASE TiendaDB;
+GO
+
+USE TiendaDB;
+GO
+
+CREATE TABLE Producto (
+    Id INT PRIMARY KEY IDENTITY(1,1),
+    Nombre NVARCHAR(100) NOT NULL,
+    Precio DECIMAL(10,2) NOT NULL,
+    Fecha_Baja DATETIME NULL,
+    Motivo_Baja NVARCHAR(255) NULL
+);
