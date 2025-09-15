@@ -43,7 +43,7 @@ namespace ProduccionBack.Data
                 componente.Nombre = item["nombre"].ToString();
                 if (item["fecha_baja"] != DBNull.Value)
                     componente.FechaBaja = DateTime.Parse(item["fecha_baja"].ToString());
-                if(item["motivo_baja"] != DBNull.Value)
+                if (item["motivo_baja"] != DBNull.Value)
                     componente.MotivoBaja = item["motivo_baja"].ToString();
                 lst.Add(componente);
             }

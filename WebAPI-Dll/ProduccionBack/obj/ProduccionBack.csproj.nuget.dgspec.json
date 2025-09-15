@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UTN\\TUP PROG II\\2024\\Material\\Semana 05\\ProduccionBack\\ProduccionBack.csproj": {}
+    "D:\\UTN\\TUP PROG II\\2025\\Repo\\TUPROGII2025\\WebAPI-Dll\\ProduccionBack\\ProduccionBack.csproj": {}
   },
   "projects": {
-    "D:\\UTN\\TUP PROG II\\2024\\Material\\Semana 05\\ProduccionBack\\ProduccionBack.csproj": {
+    "D:\\UTN\\TUP PROG II\\2025\\Repo\\TUPROGII2025\\WebAPI-Dll\\ProduccionBack\\ProduccionBack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UTN\\TUP PROG II\\2024\\Material\\Semana 05\\ProduccionBack\\ProduccionBack.csproj",
+        "projectUniqueName": "D:\\UTN\\TUP PROG II\\2025\\Repo\\TUPROGII2025\\WebAPI-Dll\\ProduccionBack\\ProduccionBack.csproj",
         "projectName": "ProduccionBack",
-        "projectPath": "D:\\UTN\\TUP PROG II\\2024\\Material\\Semana 05\\ProduccionBack\\ProduccionBack.csproj",
+        "projectPath": "D:\\UTN\\TUP PROG II\\2025\\Repo\\TUPROGII2025\\WebAPI-Dll\\ProduccionBack\\ProduccionBack.csproj",
         "packagesPath": "C:\\Users\\Martin\\.nuget\\packages\\",
-        "outputPath": "D:\\UTN\\TUP PROG II\\2024\\Material\\Semana 05\\ProduccionBack\\obj\\",
+        "outputPath": "D:\\UTN\\TUP PROG II\\2025\\Repo\\TUPROGII2025\\WebAPI-Dll\\ProduccionBack\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Martin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

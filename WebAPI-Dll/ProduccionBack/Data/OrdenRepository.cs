@@ -87,7 +87,7 @@ namespace ProduccionBack.Data
         public List<OrdenProduccion> ObtenerOrdenes(DateTime? fecha, string estado)
         {
             var parameters = new List<ParameterSQL>();
-            if (!fecha.HasValue)
+            if (fecha != null && !fecha.HasValue)
                 parameters.Add(new ParameterSQL("@fecha", DBNull.Value));
             else
                 parameters.Add(new ParameterSQL("@fecha", fecha));

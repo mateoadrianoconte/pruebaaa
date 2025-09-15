@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YhZyoeYCOy0=",
+  "dgSpecHash": "3qhwRD0cAxY=",
   "success": true,
-  "projectFilePath": "D:\\UTN\\TUP PROG II\\2024\\Material\\Semana 05\\ProduccionBack\\ProduccionBack.csproj",
+  "projectFilePath": "D:\\UTN\\TUP PROG II\\2025\\Repo\\TUPROGII2025\\WebAPI-Dll\\ProduccionBack\\ProduccionBack.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Martin\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Martin\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

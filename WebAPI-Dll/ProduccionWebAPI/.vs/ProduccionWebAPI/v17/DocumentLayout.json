@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Martin\\source\\repos\\ProduccionWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C26AD778-99C9-43AA-A699-98BE8DF6D3B8}|D:\\UTN\\TUP PROG II\\2025\\Repo\\TUPROGII2025\\WebAPI-Dll\\ProduccionBack\\ProduccionBack.csproj|d:\\utn\\tup prog ii\\2025\\repo\\tuprogii2025\\webapi-dll\\produccionback\\entities\\ordenproduccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08F99B7-1EAD-4957-B01A-6014B457F7E9}|ProduccionWebAPI.csproj|c:\\users\\martin\\source\\repos\\produccionwebapi\\controllers\\ordenescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08F99B7-1EAD-4957-B01A-6014B457F7E9}|ProduccionWebAPI.csproj|solutionrelative:controllers\\ordenescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08F99B7-1EAD-4957-B01A-6014B457F7E9}|ProduccionWebAPI.csproj|c:\\users\\martin\\source\\repos\\produccionwebapi\\controllers\\componentescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08F99B7-1EAD-4957-B01A-6014B457F7E9}|ProduccionWebAPI.csproj|solutionrelative:controllers\\componentescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08F99B7-1EAD-4957-B01A-6014B457F7E9}|ProduccionWebAPI.csproj|c:\\users\\martin\\source\\repos\\produccionwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08F99B7-1EAD-4957-B01A-6014B457F7E9}|ProduccionWebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26AD778-99C9-43AA-A699-98BE8DF6D3B8}|D:\\UTN\\TUP PROG II\\2025\\Repo\\TUPROGII2025\\WebAPI-Dll\\ProduccionBack\\ProduccionBack.csproj|d:\\utn\\tup prog ii\\2025\\repo\\tuprogii2025\\webapi-dll\\produccionback\\services\\componenteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26AD778-99C9-43AA-A699-98BE8DF6D3B8}|D:\\UTN\\TUP PROG II\\2025\\Repo\\TUPROGII2025\\WebAPI-Dll\\ProduccionBack\\ProduccionBack.csproj|d:\\utn\\tup prog ii\\2025\\repo\\tuprogii2025\\webapi-dll\\produccionback\\services\\icomponenteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26AD778-99C9-43AA-A699-98BE8DF6D3B8}|D:\\UTN\\TUP PROG II\\2025\\Repo\\TUPROGII2025\\WebAPI-Dll\\ProduccionBack\\ProduccionBack.csproj|d:\\utn\\tup prog ii\\2025\\repo\\tuprogii2025\\webapi-dll\\produccionback\\data\\ordenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26AD778-99C9-43AA-A699-98BE8DF6D3B8}|D:\\UTN\\TUP PROG II\\2025\\Repo\\TUPROGII2025\\WebAPI-Dll\\ProduccionBack\\ProduccionBack.csproj|d:\\utn\\tup prog ii\\2025\\repo\\tuprogii2025\\webapi-dll\\produccionback\\services\\produccionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26AD778-99C9-43AA-A699-98BE8DF6D3B8}|D:\\UTN\\TUP PROG II\\2025\\Repo\\TUPROGII2025\\WebAPI-Dll\\ProduccionBack\\ProduccionBack.csproj|d:\\utn\\tup prog ii\\2025\\repo\\tuprogii2025\\webapi-dll\\produccionback\\data\\componenterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26AD778-99C9-43AA-A699-98BE8DF6D3B8}|D:\\UTN\\TUP PROG II\\2025\\Repo\\TUPROGII2025\\WebAPI-Dll\\ProduccionBack\\ProduccionBack.csproj|d:\\utn\\tup prog ii\\2025\\repo\\tuprogii2025\\webapi-dll\\produccionback\\data\\icomponenterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26AD778-99C9-43AA-A699-98BE8DF6D3B8}|D:\\UTN\\TUP PROG II\\2025\\Repo\\TUPROGII2025\\WebAPI-Dll\\ProduccionBack\\ProduccionBack.csproj|d:\\utn\\tup prog ii\\2025\\repo\\tuprogii2025\\webapi-dll\\produccionback\\data\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdenProduccion.cs",
+              "DocumentMoniker": "D:\\UTN\\TUP PROG II\\2025\\Repo\\TUPROGII2025\\WebAPI-Dll\\ProduccionBack\\Entities\\OrdenProduccion.cs",
+              "ToolTip": "D:\\UTN\\TUP PROG II\\2025\\Repo\\TUPROGII2025\\WebAPI-Dll\\ProduccionBack\\Entities\\OrdenProduccion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T19:33:25.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\ProduccionWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Martin\\source\\repos\\ProduccionWebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T19:14:05.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdenesController.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\ProduccionWebAPI\\Controllers\\OrdenesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdenesController.cs",
+              "ToolTip": "C:\\Users\\Martin\\source\\repos\\ProduccionWebAPI\\Controllers\\OrdenesController.cs",
+              "RelativeToolTip": "Controllers\\OrdenesController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA9wBQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T18:46:28.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComponentesController.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\ProduccionWebAPI\\Controllers\\ComponentesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ComponentesController.cs",
+              "ToolTip": "C:\\Users\\Martin\\source\\repos\\ProduccionWebAPI\\Controllers\\ComponentesController.cs",
+              "RelativeToolTip": "Controllers\\ComponentesController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T18:29:14.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProduccionService.cs",
+              "DocumentMoniker": "D:\\UTN\\TUP PROG II\\2025\\Repo\\TUPROGII2025\\WebAPI-Dll\\ProduccionBack\\Services\\ProduccionService.cs",
+              "ToolTip": "D:\\UTN\\TUP PROG II\\2025\\Repo\\TUPROGII2025\\WebAPI-Dll\\ProduccionBack\\Services\\ProduccionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T18:24:13.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrdenRepository.cs",
+              "DocumentMoniker": "D:\\UTN\\TUP PROG II\\2025\\Repo\\TUPROGII2025\\WebAPI-Dll\\ProduccionBack\\Data\\OrdenRepository.cs",
+              "ToolTip": "D:\\UTN\\TUP PROG II\\2025\\Repo\\TUPROGII2025\\WebAPI-Dll\\ProduccionBack\\Data\\OrdenRepository.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAAAFwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T18:12:18.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "D:\\UTN\\TUP PROG II\\2025\\Repo\\TUPROGII2025\\WebAPI-Dll\\ProduccionBack\\Data\\Utils\\DataHelper.cs",
+              "ToolTip": "D:\\UTN\\TUP PROG II\\2025\\Repo\\TUPROGII2025\\WebAPI-Dll\\ProduccionBack\\Data\\Utils\\DataHelper.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAYwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T17:54:04.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ComponenteService.cs",
+              "DocumentMoniker": "D:\\UTN\\TUP PROG II\\2025\\Repo\\TUPROGII2025\\WebAPI-Dll\\ProduccionBack\\Services\\ComponenteService.cs",
+              "ToolTip": "D:\\UTN\\TUP PROG II\\2025\\Repo\\TUPROGII2025\\WebAPI-Dll\\ProduccionBack\\Services\\ComponenteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T17:58:02.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IComponenteService.cs",
+              "DocumentMoniker": "D:\\UTN\\TUP PROG II\\2025\\Repo\\TUPROGII2025\\WebAPI-Dll\\ProduccionBack\\Services\\IComponenteService.cs",
+              "ToolTip": "D:\\UTN\\TUP PROG II\\2025\\Repo\\TUPROGII2025\\WebAPI-Dll\\ProduccionBack\\Services\\IComponenteService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T17:57:55.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ComponenteRepository.cs",
+              "DocumentMoniker": "D:\\UTN\\TUP PROG II\\2025\\Repo\\TUPROGII2025\\WebAPI-Dll\\ProduccionBack\\Data\\ComponenteRepository.cs",
+              "ToolTip": "D:\\UTN\\TUP PROG II\\2025\\Repo\\TUPROGII2025\\WebAPI-Dll\\ProduccionBack\\Data\\ComponenteRepository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwCYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T17:46:08.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IComponenteRepository.cs",
+              "DocumentMoniker": "D:\\UTN\\TUP PROG II\\2025\\Repo\\TUPROGII2025\\WebAPI-Dll\\ProduccionBack\\Data\\IComponenteRepository.cs",
+              "ToolTip": "D:\\UTN\\TUP PROG II\\2025\\Repo\\TUPROGII2025\\WebAPI-Dll\\ProduccionBack\\Data\\IComponenteRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T17:43:39.933Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
