@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o8OGXs9g/Jo=",
+  "dgSpecHash": "m+5q8SYcaXw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Martin\\source\\repos\\ParcialWebApi\\ParcialWebApi.csproj",
+  "projectFilePath": "D:\\UTN\\TUP PROG II\\2025\\Repo\\TUPROGII2025\\Modelo Parcial\\ParcialWebApi\\ParcialWebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Martin\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Martin\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

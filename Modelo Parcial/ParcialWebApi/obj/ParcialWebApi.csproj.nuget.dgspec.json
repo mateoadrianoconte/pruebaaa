@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Martin\\source\\repos\\ParcialWebApi\\ParcialWebApi.csproj": {}
+    "D:\\UTN\\TUP PROG II\\2025\\Repo\\TUPROGII2025\\Modelo Parcial\\ParcialWebApi\\ParcialWebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Martin\\source\\repos\\ParcialWebApi\\ParcialWebApi.csproj": {
+    "D:\\UTN\\TUP PROG II\\2025\\Repo\\TUPROGII2025\\Modelo Parcial\\ParcialWebApi\\ParcialWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Martin\\source\\repos\\ParcialWebApi\\ParcialWebApi.csproj",
+        "projectUniqueName": "D:\\UTN\\TUP PROG II\\2025\\Repo\\TUPROGII2025\\Modelo Parcial\\ParcialWebApi\\ParcialWebApi.csproj",
         "projectName": "ParcialWebApi",
-        "projectPath": "C:\\Users\\Martin\\source\\repos\\ParcialWebApi\\ParcialWebApi.csproj",
+        "projectPath": "D:\\UTN\\TUP PROG II\\2025\\Repo\\TUPROGII2025\\Modelo Parcial\\ParcialWebApi\\ParcialWebApi.csproj",
         "packagesPath": "C:\\Users\\Martin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Martin\\source\\repos\\ParcialWebApi\\obj\\",
+        "outputPath": "D:\\UTN\\TUP PROG II\\2025\\Repo\\TUPROGII2025\\Modelo Parcial\\ParcialWebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Martin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
